@@ -1,0 +1,2 @@
+[intento 6e20ba2] Añado una segunda línea al archivo_b.txt en la rama intento
+ 1 file changed, 1 insertion(+)
