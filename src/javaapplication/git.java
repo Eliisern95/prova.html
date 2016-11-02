@@ -10,5 +10,5 @@ package javaapplication;
  * @author eli
  */
 public class git {
-    
+    String hola;
 }
